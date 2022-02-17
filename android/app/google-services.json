@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "715999717865",
+    "project_id": "hunichatapp",
+    "storage_bucket": "hunichatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715999717865:android:0ace85b271e57f60404378",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715999717865-udl3tsmq4bvvj1eng76o3ba62d9ljssn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAALb9OxK5EF3mgkiGGbB8c0ZHvfZsP0tU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715999717865-udl3tsmq4bvvj1eng76o3ba62d9ljssn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
